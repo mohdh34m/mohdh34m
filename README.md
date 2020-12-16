@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/mohdh34m/mohdh34m.svg)](http://hits.dwyl.com/mohdh34m/mohdh34m)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...-----
