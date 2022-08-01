@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdh34m&label=Profile%20views&color=00ffff&style=flat" alt="mohdh34m" /> </p>
+![](https://komarev.com/ghpvc/?username=mohdh34m&style=for-the-badge)
 
 
 - 👨‍💻 All of my projects are available at [My Website](My Website)
